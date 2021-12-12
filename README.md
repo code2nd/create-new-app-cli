@@ -26,7 +26,7 @@ cnac create demo
 
 
 
-**查看项目模板，请移步**[react-app-template](https://github.com/code2nd/create-new-app-cli)
+**查看项目模板，请移步**[react-app-template](https://github.com/code2nd/react-app-template)
 
 
 
