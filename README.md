@@ -18,11 +18,11 @@ cnac create demo
 + 注：git clone下载线上模板代码有时会失败，当git clone失败时会自动启用备选方案，从本地拷贝项目以完成项目创建
 
 当前创建的项目已经默认配置了如下信息：
-+ 作者从0到1使用webpack实现的项目打包配置信息
-+ 使用react-router管理的三个页面
-+ 使用react-redux管理数据
-+ axios异步请求（通过redux-thunk管理）
-+ antd组件库
++ 作者从 0 到 1 使用 webpack 实现的项目打包配置信息
++ 使用 react-router 管理的三个页面
++ 使用 react-redux 管理数据
++ axios 异步请求（通过 redux-thunk 实现 redux 对异步请求的管理管理）
++ antd 组件库
 
 
 
