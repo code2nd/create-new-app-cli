@@ -1,6 +1,6 @@
 {
   "name": "create-new-app-cli",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "A cli for creating fontend application quickly",
   "private": false,
   "main": "./bin/index.js",
@@ -10,10 +10,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "webpack",
+    "react"
+  ],
   "author": "coder2nd",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "chalk": "4.1.2",
     "commander": "^8.3.0",
     "download": "^8.0.0",
